@@ -1,4 +1,4 @@
-function recite10LittleMonkeys(numberOfMonkeys){
+function recite10LittleMonkeys(numberOfMonkeys){ 
   if (numberOfMonkeys < 2){   //prints the last verse
     lastVerse();
   }else{                      //otherwise recursively makes the rest of the poem
@@ -84,4 +84,4 @@ function tripletConversion(triplet){
   return output;
 };
 
-// recite10LittleMonkeys(10);
+recite10LittleMonkeys(203);

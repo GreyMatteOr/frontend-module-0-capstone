@@ -64,7 +64,8 @@ anything else, it prints a message that says you befriend the bear.
 
 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
 
-It logs to the console the string "You run as fast as you can into the next room. It's full of snakes!".
+If 'bearClothing === 3' isn't  type, it logs to the console the string "You run as fast as you can into the next room. It's full of snakes!".
+Otherwise it never runs, and then the output becomes "You stay with the bear and become it's best friend!"
 
 6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be?
 

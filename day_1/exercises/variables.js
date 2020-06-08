@@ -4,7 +4,7 @@
 // example: Write code below to assign your name to a variable and
 // log that variable to the console:
 
-var name = "Harry Potter";
+var name = "Matthew Lane";
 console.log(name);
 
 // Write code below to assign the string 'Dobby' to a variable and
